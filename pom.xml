@@ -21,7 +21,7 @@
         <lombok.version>1.18.10</lombok.version>
         <log4jdbc.log4j2.version>1.16</log4jdbc.log4j2.version>
         <rest.assured.version>2.3.3</rest.assured.version>
-        <org.apache.poi.poi-ooxml.version>3.17</org.apache.poi.poi-ooxml.version>
+        <org.apache.poi.poi-ooxml.version>5.4.0</org.apache.poi.poi-ooxml.version>
         <com.oracle.ojdbc7.version>12.1.0</com.oracle.ojdbc7.version>
     </properties>
 
